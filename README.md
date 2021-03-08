@@ -2,7 +2,9 @@
 
 1 - So, for using Linux in your operating Systems first of all you need to turn on subsystem for Linux.
     Windows -> Search for (Turn Windows Features On or Off) -> select (Windows Subsystem for Linux) -> Select Ok and then restart your computer to apply changes.
-        ![1](https://user-images.githubusercontent.com/47186806/110260903-fa43a280-7fa5-11eb-85b5-1e6359363e11.PNG)
+    
+   
+![1](https://user-images.githubusercontent.com/47186806/110260903-fa43a280-7fa5-11eb-85b5-1e6359363e11.PNG)
 
     
 2 - Then, Download Ubuntu from any browser or Microsoft Store.
