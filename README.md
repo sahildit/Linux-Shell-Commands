@@ -19,24 +19,35 @@
 
 
 # Basic Commands
-1 - cat
+1 - cat:
     used to concatenate the files which gives output on standard output.
    
-2 - mkdi
+2 - mkdir:
     Used to create a directory if not already exist.
     
-3 - cp
+3 - cp:
     Used to cpy the files and directories from source to destination path.
     
-4 - mv
+4 - mv:
     Used to move the files or directories.
     
-5 - rm
+5 - rm:
     Used to remove files or directories.
     
-6 - touch
+6 - touch:
     Used to create or update the file.
     
+7 - sort:
+    Used to sort the contents of files.
+    
+8 - grep:
+    Used to search for specified text in file.
+    
+9 - pwd:
+    Used to show the present working directory.
+    
+10 - ls:
+    Used to get the list of all the files or folders in current directory.
  
     
     
