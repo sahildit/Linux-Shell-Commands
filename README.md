@@ -1,4 +1,4 @@
-# Tutorial of how to install Linux Terminal and their basic commands
+# Tutorial on how to install Linux Terminal and their basic commands
 
 1 - So, for using Linux in your operating Systems first of all you need to turn on subsystem for Linux.
     Windows -> Search for (Turn Windows Features On or Off) -> select (Windows Subsystem for Linux) -> Select Ok and then restart your computer to apply changes.
