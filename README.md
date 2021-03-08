@@ -1,5 +1,4 @@
-# Linux-Shell-Commands
-## Tutorial of how to install Linux Terminal and their basic commands
+# Tutorial of how to install Linux Terminal and their basic commands
 
 1 - So, for using Linux in your operating Systems first of all you need to turn on subsystem for Linux.
     Windows -> Search for (Turn Windows Features On or Off) -> select (Windows Subsystem for Linux) -> Select Ok and then restart your computer to apply changes.
@@ -17,3 +16,27 @@
 
 5 - Your Linux Command line is ready to use.
 ![5](https://user-images.githubusercontent.com/47186806/110260926-0d567280-7fa6-11eb-804a-544a8847686c.PNG)
+
+
+# Basic Commands
+1 - cat
+    used to concatenate the files which gives output on standard output.
+   
+2 - mkdi
+    Used to create a directory if not already exist.
+    
+3 - cp
+    Used to cpy the files and directories from source to destination path.
+    
+4 - mv
+    Used to move the files or directories.
+    
+5 - rm
+    Used to remove files or directories.
+    
+6 - touch
+    Used to create or update the file.
+    
+ 
+    
+    
